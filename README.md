@@ -14,3 +14,4 @@ To do:
 - castling
 - en passant
 - trasforming pawns into other pieces
+- making it an web application, adding GUI
