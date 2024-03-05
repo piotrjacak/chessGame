@@ -1,4 +1,5 @@
 # chessGame
+This is my free-time project (not for uni) coded in C#.
 Only test version so far. Work in progress.
 
 Working features:
